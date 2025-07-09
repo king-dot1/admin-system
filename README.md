@@ -33,3 +33,11 @@ pnpm build
 ```sh
 pnpm lint
 ```
+### 项目名称
+vue3通用后台管理系统
+
+### 项目描述
+通用的vue3台管理系统，整个系统包括，登录，左侧菜单栏，首页图标展示，面包屑，tab栏功能，用户管理，路由守卫，菜单权限等功能。
+
+### 项目技术栈
+vue3+vite+vue-router+pinia+element-plus+echarts+mockjs+localstorage+axios
